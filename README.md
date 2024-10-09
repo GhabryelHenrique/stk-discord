@@ -1,3 +1,5 @@
+<img src="https://www.stackspot.com/wp-content/uploads/2023/01/logo-menu.png">
+
 # Discord Bot com Remote Quick Command Stackspot
 
 Este projeto é um bot do Discord que permite executar comandos remotos (Remote Quick Commands) e retornar os resultados diretamente no canal do Discord. O bot utiliza a API do StackSpot para executar comandos remotos e verificar o status de execução.
@@ -113,3 +115,5 @@ Sinta-se à vontade para abrir issues ou enviar pull requests para melhorias ou 
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
+
+<img src="https://www.stackspot.com/wp-content/uploads/2024/02/Imagens-Site-StackSpot-Thumbs-carregamento-17.png">
