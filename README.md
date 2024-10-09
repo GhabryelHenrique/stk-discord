@@ -68,7 +68,7 @@ SLUG=slug_do_comando_remoto
 2. Execute o bot:
 
 ````
-$ python bot.py
+$ python main.py
 ````
 
 3. No Discord, envie uma mensagem no canal onde o bot está presente com o comando:
